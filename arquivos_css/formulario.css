@@ -1,0 +1,62 @@
+body{
+    color: darkslategrey;
+    font-size: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5rem;
+}
+
+h1{
+    font-size: 30px;
+    color: darkblue;
+    font-family: "Audiowide", sans-serif;
+}
+
+h2{
+    font-size: 24px;
+    background-color: lightskyblue;
+    color: darkblue;
+    border-radius: 5px;
+}
+
+a{
+    color: darkblue;
+    text-decoration: none;
+}
+
+a:visited{
+    color: darkblue;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.linkh1{
+    color: white;
+}
+
+.linkh2{
+    color: lightskyblue;
+}
+
+h1:hover a, h2:hover a{
+    color: darkblue;
+}
+
+#copyright{
+    font-weight: bold;
+    text-align: center;
+    font-style: italic;
+}
+
+svg{
+    width: 1rem;
+    fill: darkblue;
+    line-height: 1.5rem;
+}
+
